@@ -1,0 +1,5040 @@
+{
+    "Base": {
+        "Object map": {
+            "1": {
+                "Id": 1,
+                "Type": 3
+            },
+            "10": {
+                "Id": 10,
+                "Type": 3
+            },
+            "100": {
+                "Id": 100,
+                "Type": 8
+            },
+            "101": {
+                "Id": 101,
+                "Type": 8
+            },
+            "102": {
+                "Id": 102,
+                "Type": 8
+            },
+            "103": {
+                "Id": 103,
+                "Type": 8
+            },
+            "104": {
+                "Id": 104,
+                "Type": 8
+            },
+            "105": {
+                "Id": 105,
+                "Type": 8
+            },
+            "106": {
+                "Id": 106,
+                "Type": 8
+            },
+            "107": {
+                "Id": 107,
+                "Type": 8
+            },
+            "108": {
+                "Id": 108,
+                "Type": 8
+            },
+            "109": {
+                "Id": 109,
+                "Type": 8
+            },
+            "11": {
+                "Id": 11,
+                "Type": 3
+            },
+            "110": {
+                "Id": 110,
+                "Type": 8
+            },
+            "111": {
+                "Id": 111,
+                "Type": 8
+            },
+            "112": {
+                "Id": 112,
+                "Type": 8
+            },
+            "113": {
+                "Id": 113,
+                "Type": 8
+            },
+            "114": {
+                "Id": 114,
+                "Type": 8
+            },
+            "115": {
+                "Id": 115,
+                "Type": 8
+            },
+            "116": {
+                "Id": 116,
+                "Type": 8
+            },
+            "117": {
+                "Id": 117,
+                "Type": 8
+            },
+            "118": {
+                "Id": 118,
+                "Type": 8
+            },
+            "119": {
+                "Id": 119,
+                "Type": 8
+            },
+            "12": {
+                "Id": 12,
+                "Type": 3
+            },
+            "120": {
+                "Id": 120,
+                "Type": 8
+            },
+            "121": {
+                "Id": 121,
+                "Type": 8
+            },
+            "122": {
+                "Id": 122,
+                "Type": 8
+            },
+            "123": {
+                "Id": 123,
+                "Type": 8
+            },
+            "124": {
+                "Id": 124,
+                "Type": 8
+            },
+            "125": {
+                "Id": 125,
+                "Type": 8
+            },
+            "126": {
+                "Id": 126,
+                "Type": 8
+            },
+            "127": {
+                "Id": 127,
+                "Type": 8
+            },
+            "128": {
+                "Id": 128,
+                "Type": 8
+            },
+            "129": {
+                "Id": 129,
+                "Type": 8
+            },
+            "13": {
+                "Id": 13,
+                "Type": 2
+            },
+            "130": {
+                "Id": 130,
+                "Type": 8
+            },
+            "131": {
+                "Id": 131,
+                "Type": 8
+            },
+            "132": {
+                "Id": 132,
+                "Type": 8
+            },
+            "133": {
+                "Id": 133,
+                "Type": 8
+            },
+            "134": {
+                "Id": 134,
+                "Type": 8
+            },
+            "135": {
+                "Id": 135,
+                "Type": 8
+            },
+            "136": {
+                "Id": 136,
+                "Type": 8
+            },
+            "137": {
+                "Id": 137,
+                "Type": 8
+            },
+            "138": {
+                "Id": 138,
+                "Type": 8
+            },
+            "14": {
+                "Id": 14,
+                "Type": 3
+            },
+            "15": {
+                "Id": 15,
+                "Type": 3
+            },
+            "16": {
+                "Id": 16,
+                "Type": 3
+            },
+            "17": {
+                "Id": 17,
+                "Type": 2
+            },
+            "18": {
+                "Id": 18,
+                "Type": 3
+            },
+            "19": {
+                "Id": 19,
+                "Type": 3
+            },
+            "2": {
+                "Id": 2,
+                "Type": 2
+            },
+            "20": {
+                "Id": 20,
+                "Type": 3
+            },
+            "21": {
+                "Id": 21,
+                "Type": 2
+            },
+            "22": {
+                "Id": 22,
+                "Type": 3
+            },
+            "23": {
+                "Id": 23,
+                "Type": 3
+            },
+            "24": {
+                "Id": 24,
+                "Type": 3
+            },
+            "25": {
+                "Id": 25,
+                "Type": 21
+            },
+            "26": {
+                "Id": 26,
+                "Type": 9
+            },
+            "27": {
+                "Id": 27,
+                "Type": 21
+            },
+            "28": {
+                "Id": 28,
+                "Type": 9
+            },
+            "29": {
+                "Id": 29,
+                "Type": 12
+            },
+            "3": {
+                "Id": 3,
+                "Type": 19
+            },
+            "30": {
+                "Id": 30,
+                "Type": 12
+            },
+            "31": {
+                "Id": 31,
+                "Type": 20
+            },
+            "32": {
+                "Id": 32,
+                "Type": 9
+            },
+            "33": {
+                "Id": 33,
+                "Type": 20
+            },
+            "34": {
+                "Id": 34,
+                "Type": 9
+            },
+            "35": {
+                "Id": 35,
+                "Type": 20
+            },
+            "36": {
+                "Id": 36,
+                "Type": 9
+            },
+            "37": {
+                "Id": 37,
+                "Type": 20
+            },
+            "38": {
+                "Id": 38,
+                "Type": 9
+            },
+            "39": {
+                "Id": 39,
+                "Type": 20
+            },
+            "4": {
+                "Id": 4,
+                "Type": 1
+            },
+            "40": {
+                "Id": 40,
+                "Type": 9
+            },
+            "41": {
+                "Id": 41,
+                "Type": 20
+            },
+            "42": {
+                "Id": 42,
+                "Type": 9
+            },
+            "43": {
+                "Id": 43,
+                "Type": 20
+            },
+            "44": {
+                "Id": 44,
+                "Type": 9
+            },
+            "45": {
+                "Id": 45,
+                "Type": 20
+            },
+            "46": {
+                "Id": 46,
+                "Type": 9
+            },
+            "47": {
+                "Id": 47,
+                "Type": 20
+            },
+            "48": {
+                "Id": 48,
+                "Type": 9
+            },
+            "49": {
+                "Id": 49,
+                "Type": 20
+            },
+            "5": {
+                "Id": 5,
+                "Type": 2
+            },
+            "50": {
+                "Id": 50,
+                "Type": 9
+            },
+            "51": {
+                "Id": 51,
+                "Type": 20
+            },
+            "52": {
+                "Id": 52,
+                "Type": 9
+            },
+            "53": {
+                "Id": 53,
+                "Type": 20
+            },
+            "54": {
+                "Id": 54,
+                "Type": 9
+            },
+            "55": {
+                "Id": 55,
+                "Type": 20
+            },
+            "56": {
+                "Id": 56,
+                "Type": 9
+            },
+            "57": {
+                "Id": 57,
+                "Type": 20
+            },
+            "58": {
+                "Id": 58,
+                "Type": 9
+            },
+            "59": {
+                "Id": 59,
+                "Type": 20
+            },
+            "6": {
+                "Id": 6,
+                "Type": 3
+            },
+            "60": {
+                "Id": 60,
+                "Type": 9
+            },
+            "61": {
+                "Id": 61,
+                "Type": 20
+            },
+            "62": {
+                "Id": 62,
+                "Type": 9
+            },
+            "63": {
+                "Id": 63,
+                "Type": 20
+            },
+            "64": {
+                "Id": 64,
+                "Type": 9
+            },
+            "65": {
+                "Id": 65,
+                "Type": 8
+            },
+            "66": {
+                "Id": 66,
+                "Type": 8
+            },
+            "67": {
+                "Id": 67,
+                "Type": 8
+            },
+            "68": {
+                "Id": 68,
+                "Type": 8
+            },
+            "69": {
+                "Id": 69,
+                "Type": 8
+            },
+            "7": {
+                "Id": 7,
+                "Type": 3
+            },
+            "70": {
+                "Id": 70,
+                "Type": 8
+            },
+            "71": {
+                "Id": 71,
+                "Type": 8
+            },
+            "72": {
+                "Id": 72,
+                "Type": 8
+            },
+            "73": {
+                "Id": 73,
+                "Type": 8
+            },
+            "74": {
+                "Id": 74,
+                "Type": 8
+            },
+            "75": {
+                "Id": 75,
+                "Type": 8
+            },
+            "76": {
+                "Id": 76,
+                "Type": 8
+            },
+            "77": {
+                "Id": 77,
+                "Type": 8
+            },
+            "78": {
+                "Id": 78,
+                "Type": 8
+            },
+            "79": {
+                "Id": 79,
+                "Type": 8
+            },
+            "8": {
+                "Id": 8,
+                "Type": 3
+            },
+            "80": {
+                "Id": 80,
+                "Type": 8
+            },
+            "81": {
+                "Id": 81,
+                "Type": 8
+            },
+            "82": {
+                "Id": 82,
+                "Type": 8
+            },
+            "83": {
+                "Id": 83,
+                "Type": 8
+            },
+            "84": {
+                "Id": 84,
+                "Type": 8
+            },
+            "85": {
+                "Id": 85,
+                "Type": 8
+            },
+            "86": {
+                "Id": 86,
+                "Type": 8
+            },
+            "87": {
+                "Id": 87,
+                "Type": 8
+            },
+            "88": {
+                "Id": 88,
+                "Type": 8
+            },
+            "89": {
+                "Id": 89,
+                "Type": 8
+            },
+            "9": {
+                "Id": 9,
+                "Type": 2
+            },
+            "90": {
+                "Id": 90,
+                "Type": 8
+            },
+            "91": {
+                "Id": 91,
+                "Type": 8
+            },
+            "92": {
+                "Id": 92,
+                "Type": 8
+            },
+            "93": {
+                "Id": 93,
+                "Type": 8
+            },
+            "94": {
+                "Id": 94,
+                "Type": 8
+            },
+            "95": {
+                "Id": 95,
+                "Type": 8
+            },
+            "96": {
+                "Id": 96,
+                "Type": 8
+            },
+            "97": {
+                "Id": 97,
+                "Type": 8
+            },
+            "98": {
+                "Id": 98,
+                "Type": 8
+            },
+            "99": {
+                "Id": 99,
+                "Type": 8
+            },
+            "Objects count": 138
+        },
+        "Objects map": {
+            "Circle-26": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 26,
+                "Linewidth": 0,
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 0,
+                    "Layer id": 0,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -300000,
+                    "lt": -300000,
+                    "rt": 300000,
+                    "tp": 300000
+                },
+                "X": 0,
+                "Y": 0
+            },
+            "Circle-28": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 28,
+                "Linewidth": 0,
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 0,
+                    "Layer id": 0,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": false,
+                    "Prim net obj": false,
+                    "bm": -300000,
+                    "lt": -300000,
+                    "rt": 300000,
+                    "tp": 300000
+                },
+                "X": 0,
+                "Y": 0
+            },
+            "Circle-32": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 32,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 31,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 11700000,
+                    "lt": -24300000,
+                    "rt": -23700000,
+                    "tp": 12300000
+                },
+                "X": -24000000,
+                "Y": 12000000
+            },
+            "Circle-34": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 34,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 33,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 11700000,
+                    "lt": -20300000,
+                    "rt": -19700000,
+                    "tp": 12300000
+                },
+                "X": -20000000,
+                "Y": 12000000
+            },
+            "Circle-36": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 36,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 35,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 7700000,
+                    "lt": -24300000,
+                    "rt": -23700000,
+                    "tp": 8300000
+                },
+                "X": -24000000,
+                "Y": 8000000
+            },
+            "Circle-38": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 38,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 37,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 7700000,
+                    "lt": -18300000,
+                    "rt": -17700000,
+                    "tp": 8300000
+                },
+                "X": -18000000,
+                "Y": 8000000
+            },
+            "Circle-40": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 40,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 39,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -3300000,
+                    "lt": -23300000,
+                    "rt": -22700000,
+                    "tp": -2700000
+                },
+                "X": -23000000,
+                "Y": -3000000
+            },
+            "Circle-42": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 42,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 41,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 700000,
+                    "lt": -11300000,
+                    "rt": -10700000,
+                    "tp": 1300000
+                },
+                "X": -11000000,
+                "Y": 1000000
+            },
+            "Circle-44": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 44,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 43,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -4300000,
+                    "lt": -11300000,
+                    "rt": -10700000,
+                    "tp": -3700000
+                },
+                "X": -11000000,
+                "Y": -4000000
+            },
+            "Circle-46": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 46,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 45,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -7300000,
+                    "lt": -23300000,
+                    "rt": -22700000,
+                    "tp": -6700000
+                },
+                "X": -23000000,
+                "Y": -7000000
+            },
+            "Circle-48": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 48,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 47,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -3300000,
+                    "lt": -20300000,
+                    "rt": -19700000,
+                    "tp": -2700000
+                },
+                "X": -20000000,
+                "Y": -3000000
+            },
+            "Circle-50": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 50,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 49,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -7300000,
+                    "lt": -20300000,
+                    "rt": -19700000,
+                    "tp": -6700000
+                },
+                "X": -20000000,
+                "Y": -7000000
+            },
+            "Circle-52": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 52,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 51,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 700000,
+                    "lt": -7300000,
+                    "rt": -6700000,
+                    "tp": 1300000
+                },
+                "X": -7000000,
+                "Y": 1000000
+            },
+            "Circle-54": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 54,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 53,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -4300000,
+                    "lt": -7300000,
+                    "rt": -6700000,
+                    "tp": -3700000
+                },
+                "X": -7000000,
+                "Y": -4000000
+            },
+            "Circle-56": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 56,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 55,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 9700000,
+                    "lt": -14300000,
+                    "rt": -13700000,
+                    "tp": 10300000
+                },
+                "X": -14000000,
+                "Y": 10000000
+            },
+            "Circle-58": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 58,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 57,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 13700000,
+                    "lt": -17300000,
+                    "rt": -16700000,
+                    "tp": 14300000
+                },
+                "X": -17000000,
+                "Y": 14000000
+            },
+            "Circle-60": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 60,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 59,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 5700000,
+                    "lt": -22300000,
+                    "rt": -21700000,
+                    "tp": 6300000
+                },
+                "X": -22000000,
+                "Y": 6000000
+            },
+            "Circle-62": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 62,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 61,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 3700000,
+                    "lt": -24300000,
+                    "rt": -23700000,
+                    "tp": 4300000
+                },
+                "X": -24000000,
+                "Y": 4000000
+            },
+            "Circle-64": {
+                "Diameter": 600000,
+                "Fill": true,
+                "Id": 64,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 63,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 5700000,
+                    "lt": -26300000,
+                    "rt": -25700000,
+                    "tp": 6300000
+                },
+                "X": -26000000,
+                "Y": 6000000
+            },
+            "Layer-13": {
+                "Apertures map": {},
+                "Clearence": 0,
+                "Conductance": false,
+                "Default layer color": "#8f4bca",
+                "Default layer opacity": 0,
+                "Id": 13,
+                "Layer Flag": 0,
+                "Layer Name": "SM-TOP",
+                "Layer Num": 4,
+                "Layer map": {
+                    "Layer_1": {
+                        "Id": 14,
+                        "Mask layer name": "Layer_1"
+                    },
+                    "Layer_2": {
+                        "Id": 15,
+                        "Mask layer name": "Layer_2"
+                    },
+                    "Layer_3": {
+                        "Id": 16,
+                        "Mask layer name": "Layer_3"
+                    }
+                },
+                "Layer order": {
+                    "Layer_1": {
+                        "Id": 14,
+                        "Mask layer num": 0
+                    },
+                    "Layer_2": {
+                        "Id": 15,
+                        "Mask layer num": 1
+                    },
+                    "Layer_3": {
+                        "Id": 16,
+                        "Mask layer num": 2
+                    }
+                },
+                "Mask Layers Num": 3,
+                "Parent id": 4,
+                "Polarity": true,
+                "Prop map": {},
+                "Width": 25000
+            },
+            "Layer-17": {
+                "Apertures map": {},
+                "Clearence": 0,
+                "Conductance": false,
+                "Default layer color": "#d3234f",
+                "Default layer opacity": 0,
+                "Id": 17,
+                "Layer Flag": 0,
+                "Layer Name": "DIEL-1",
+                "Layer Num": 2,
+                "Layer map": {
+                    "Layer_1": {
+                        "Id": 18,
+                        "Mask layer name": "Layer_1"
+                    },
+                    "Layer_2": {
+                        "Id": 19,
+                        "Mask layer name": "Layer_2"
+                    },
+                    "Layer_3": {
+                        "Id": 20,
+                        "Mask layer name": "Layer_3"
+                    }
+                },
+                "Layer order": {
+                    "Layer_1": {
+                        "Id": 18,
+                        "Mask layer num": 0
+                    },
+                    "Layer_2": {
+                        "Id": 19,
+                        "Mask layer num": 1
+                    },
+                    "Layer_3": {
+                        "Id": 20,
+                        "Mask layer num": 2
+                    }
+                },
+                "Mask Layers Num": 3,
+                "Parent id": 4,
+                "Polarity": true,
+                "Prop map": {},
+                "Width": 10000
+            },
+            "Layer-2": {
+                "Apertures map": {},
+                "Clearence": 0,
+                "Conductance": true,
+                "Default layer color": "",
+                "Default layer opacity": -1,
+                "Id": 2,
+                "Layer Flag": 0,
+                "Layer Name": "NetLinkLayer",
+                "Layer Num": 0,
+                "Layer map": {
+                    "NetLink": {
+                        "Id": 1,
+                        "Mask layer name": "NetLink"
+                    }
+                },
+                "Layer order": {
+                    "NetLink": {
+                        "Id": 1,
+                        "Mask layer num": 0
+                    }
+                },
+                "Mask Layers Num": 1,
+                "Parent id": 4,
+                "Polarity": true,
+                "Prop map": {},
+                "Width": 0
+            },
+            "Layer-21": {
+                "Apertures map": {},
+                "Clearence": 50000,
+                "Conductance": true,
+                "Default layer color": "#275ae1",
+                "Default layer opacity": 0,
+                "Id": 21,
+                "Layer Flag": 0,
+                "Layer Name": "METAL-2",
+                "Layer Num": 3,
+                "Layer map": {
+                    "Layer_1": {
+                        "Id": 22,
+                        "Mask layer name": "Layer_1"
+                    },
+                    "Layer_2": {
+                        "Id": 23,
+                        "Mask layer name": "Layer_2"
+                    },
+                    "Layer_3": {
+                        "Id": 24,
+                        "Mask layer name": "Layer_3"
+                    }
+                },
+                "Layer order": {
+                    "Layer_1": {
+                        "Id": 22,
+                        "Mask layer num": 0
+                    },
+                    "Layer_2": {
+                        "Id": 23,
+                        "Mask layer num": 1
+                    },
+                    "Layer_3": {
+                        "Id": 24,
+                        "Mask layer num": 2
+                    }
+                },
+                "Mask Layers Num": 3,
+                "Parent id": 4,
+                "Polarity": true,
+                "Prop map": {},
+                "Width": 25000
+            },
+            "Layer-5": {
+                "Apertures map": {},
+                "Clearence": 0,
+                "Conductance": false,
+                "Default layer color": "#a5a141",
+                "Default layer opacity": 0,
+                "Id": 5,
+                "Layer Flag": 0,
+                "Layer Name": "SM-BTM",
+                "Layer Num": 0,
+                "Layer map": {
+                    "Layer_1": {
+                        "Id": 6,
+                        "Mask layer name": "Layer_1"
+                    },
+                    "Layer_2": {
+                        "Id": 7,
+                        "Mask layer name": "Layer_2"
+                    },
+                    "Layer_3": {
+                        "Id": 8,
+                        "Mask layer name": "Layer_3"
+                    }
+                },
+                "Layer order": {
+                    "Layer_1": {
+                        "Id": 6,
+                        "Mask layer num": 0
+                    },
+                    "Layer_2": {
+                        "Id": 7,
+                        "Mask layer num": 1
+                    },
+                    "Layer_3": {
+                        "Id": 8,
+                        "Mask layer num": 2
+                    }
+                },
+                "Mask Layers Num": 3,
+                "Parent id": 4,
+                "Polarity": true,
+                "Prop map": {},
+                "Width": 25000
+            },
+            "Layer-9": {
+                "Apertures map": {},
+                "Clearence": 0,
+                "Conductance": true,
+                "Default layer color": "#33d070",
+                "Default layer opacity": 0,
+                "Id": 9,
+                "Layer Flag": 0,
+                "Layer Name": "METAL-1",
+                "Layer Num": 1,
+                "Layer map": {
+                    "Layer_1": {
+                        "Id": 10,
+                        "Mask layer name": "Layer_1"
+                    },
+                    "Layer_2": {
+                        "Id": 11,
+                        "Mask layer name": "Layer_2"
+                    },
+                    "Layer_3": {
+                        "Id": 12,
+                        "Mask layer name": "Layer_3"
+                    }
+                },
+                "Layer order": {
+                    "Layer_1": {
+                        "Id": 10,
+                        "Mask layer num": 0
+                    },
+                    "Layer_2": {
+                        "Id": 11,
+                        "Mask layer num": 1
+                    },
+                    "Layer_3": {
+                        "Id": 12,
+                        "Mask layer num": 2
+                    }
+                },
+                "Mask Layers Num": 3,
+                "Parent id": 4,
+                "Polarity": true,
+                "Prop map": {},
+                "Width": 25000
+            },
+            "Line-100": {
+                "Id": 100,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -6015000,
+                    "lt": -8015000,
+                    "rt": -6985000,
+                    "tp": -2985000
+                },
+                "X1": -7000000,
+                "X2": -8000000,
+                "Y1": -6000000,
+                "Y2": -3000000
+            },
+            "Line-101": {
+                "Id": 101,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -3015000,
+                    "lt": -8015000,
+                    "rt": -5985000,
+                    "tp": -1985000
+                },
+                "X1": -8000000,
+                "X2": -6000000,
+                "Y1": -3000000,
+                "Y2": -2000000
+            },
+            "Line-102": {
+                "Id": 102,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -2015000,
+                    "lt": -6015000,
+                    "rt": -5985000,
+                    "tp": 3015000
+                },
+                "X1": -6000000,
+                "X2": -6000000,
+                "Y1": -2000000,
+                "Y2": 3000000
+            },
+            "Line-103": {
+                "Id": 103,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 2985000,
+                    "lt": -8015000,
+                    "rt": -5985000,
+                    "tp": 3015000
+                },
+                "X1": -6000000,
+                "X2": -8000000,
+                "Y1": 3000000,
+                "Y2": 3000000
+            },
+            "Line-104": {
+                "Id": 104,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -15000,
+                    "lt": -8015000,
+                    "rt": -7985000,
+                    "tp": 3015000
+                },
+                "X1": -8000000,
+                "X2": -8000000,
+                "Y1": 3000000,
+                "Y2": 0
+            },
+            "Line-105": {
+                "Id": 105,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -15000,
+                    "lt": -12015000,
+                    "rt": -9985000,
+                    "tp": 15000
+                },
+                "X1": -12000000,
+                "X2": -10000000,
+                "Y1": 0,
+                "Y2": 0
+            },
+            "Line-106": {
+                "Id": 106,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -15000,
+                    "lt": -10015000,
+                    "rt": -8985000,
+                    "tp": 2015000
+                },
+                "X1": -10000000,
+                "X2": -9000000,
+                "Y1": 0,
+                "Y2": 2000000
+            },
+            "Line-107": {
+                "Id": 107,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 1985000,
+                    "lt": -9015000,
+                    "rt": -8985000,
+                    "tp": 3015000
+                },
+                "X1": -9000000,
+                "X2": -9000000,
+                "Y1": 2000000,
+                "Y2": 3000000
+            },
+            "Line-108": {
+                "Id": 108,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 2985000,
+                    "lt": -12015000,
+                    "rt": -8985000,
+                    "tp": 3015000
+                },
+                "X1": -9000000,
+                "X2": -12000000,
+                "Y1": 3000000,
+                "Y2": 3000000
+            },
+            "Line-109": {
+                "Id": 109,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 985000,
+                    "lt": -12015000,
+                    "rt": -11985000,
+                    "tp": 3015000
+                },
+                "X1": -12000000,
+                "X2": -12000000,
+                "Y1": 3000000,
+                "Y2": 1000000
+            },
+            "Line-110": {
+                "Id": 110,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 985000,
+                    "lt": -13015000,
+                    "rt": -11985000,
+                    "tp": 1015000
+                },
+                "X1": -12000000,
+                "X2": -13000000,
+                "Y1": 1000000,
+                "Y2": 1000000
+            },
+            "Line-111": {
+                "Id": 111,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 10985000,
+                    "lt": -25015000,
+                    "rt": -23985000,
+                    "tp": 13015000
+                },
+                "X1": -24000000,
+                "X2": -25000000,
+                "Y1": 13000000,
+                "Y2": 11000000
+            },
+            "Line-112": {
+                "Id": 112,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 9985000,
+                    "lt": -25015000,
+                    "rt": -23985000,
+                    "tp": 11015000
+                },
+                "X1": -25000000,
+                "X2": -24000000,
+                "Y1": 11000000,
+                "Y2": 10000000
+            },
+            "Line-113": {
+                "Id": 113,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 7985000,
+                    "lt": -25015000,
+                    "rt": -23985000,
+                    "tp": 10015000
+                },
+                "X1": -24000000,
+                "X2": -25000000,
+                "Y1": 10000000,
+                "Y2": 8000000
+            },
+            "Line-114": {
+                "Id": 114,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 6985000,
+                    "lt": -26015000,
+                    "rt": -24985000,
+                    "tp": 8015000
+                },
+                "X1": -25000000,
+                "X2": -26000000,
+                "Y1": 8000000,
+                "Y2": 7000000
+            },
+            "Line-115": {
+                "Id": 115,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 5985000,
+                    "lt": -27015000,
+                    "rt": -25985000,
+                    "tp": 7015000
+                },
+                "X1": -26000000,
+                "X2": -27000000,
+                "Y1": 7000000,
+                "Y2": 6000000
+            },
+            "Line-116": {
+                "Id": 116,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 4985000,
+                    "lt": -27015000,
+                    "rt": -25985000,
+                    "tp": 6015000
+                },
+                "X1": -27000000,
+                "X2": -26000000,
+                "Y1": 6000000,
+                "Y2": 5000000
+            },
+            "Line-117": {
+                "Id": 117,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 4985000,
+                    "lt": -26015000,
+                    "rt": -25376058,
+                    "tp": 6109223
+                },
+                "X1": -26000000,
+                "X2": -25391058,
+                "Y1": 5000000,
+                "Y2": 6094223
+            },
+            "Line-118": {
+                "Id": 118,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 11371311,
+                    "lt": -19934577,
+                    "rt": -19216904,
+                    "tp": 12208579
+                },
+                "X1": -19919577,
+                "X2": -19231904,
+                "Y1": 11386311,
+                "Y2": 12193579
+            },
+            "Line-119": {
+                "Id": 119,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 12178579,
+                    "lt": -19246904,
+                    "rt": -17452874,
+                    "tp": 12387972
+                },
+                "X1": -19231904,
+                "X2": -17467874,
+                "Y1": 12193579,
+                "Y2": 12372972
+            },
+            "Line-120": {
+                "Id": 120,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 12357972,
+                    "lt": -17482874,
+                    "rt": -15987832,
+                    "tp": 13045746
+                },
+                "X1": -17467874,
+                "X2": -16002832,
+                "Y1": 12372972,
+                "Y2": 13030746
+            },
+            "Line-121": {
+                "Id": 121,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 13015746,
+                    "lt": -16047732,
+                    "rt": -15987832,
+                    "tp": 14062305
+                },
+                "X1": -16002832,
+                "X2": -16032732,
+                "Y1": 13030746,
+                "Y2": 14047305
+            },
+            "Line-122": {
+                "Id": 122,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 14032305,
+                    "lt": -17034392,
+                    "rt": -16017732,
+                    "tp": 14570585
+                },
+                "X1": -16032732,
+                "X2": -17019392,
+                "Y1": 14047305,
+                "Y2": 14555585
+            },
+            "Line-123": {
+                "Id": 123,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 7454568,
+                    "lt": -23582231,
+                    "rt": -23462535,
+                    "tp": 8620722
+                },
+                "X1": -23567231,
+                "X2": -23477535,
+                "Y1": 8605722,
+                "Y2": 7469568
+            },
+            "Line-124": {
+                "Id": 124,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 6976187,
+                    "lt": -23492535,
+                    "rt": -23014052,
+                    "tp": 7484568
+                },
+                "X1": -23477535,
+                "X2": -23029052,
+                "Y1": 7469568,
+                "Y2": 6991187
+            },
+            "Line-125": {
+                "Id": 125,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 6348312,
+                    "lt": -23044052,
+                    "rt": -21489213,
+                    "tp": 7006187
+                },
+                "X1": -23029052,
+                "X2": -21504213,
+                "Y1": 6991187,
+                "Y2": 6363312
+            },
+            "Line-126": {
+                "Id": 126,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 5421449,
+                    "lt": -21579011,
+                    "rt": -21489213,
+                    "tp": 6378312
+                },
+                "X1": -21504213,
+                "X2": -21564011,
+                "Y1": 6363312,
+                "Y2": 5436449
+            },
+            "Line-127": {
+                "Id": 127,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 5421449,
+                    "lt": -22565672,
+                    "rt": -21549011,
+                    "tp": 5720538
+                },
+                "X1": -21564011,
+                "X2": -22550672,
+                "Y1": 5436449,
+                "Y2": 5705538
+            },
+            "Line-128": {
+                "Id": 128,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -3225895,
+                    "lt": -24053482,
+                    "rt": -21401918,
+                    "tp": -489762
+                },
+                "X1": -24038482,
+                "X2": -21416918,
+                "Y1": -504762,
+                "Y2": -3210895
+            },
+            "Line-129": {
+                "Id": 129,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -3225895,
+                    "lt": -21431918,
+                    "rt": -19879719,
+                    "tp": -2307945
+                },
+                "X1": -21416918,
+                "X2": -19894719,
+                "Y1": -3210895,
+                "Y2": -2322945
+            },
+            "Line-130": {
+                "Id": 130,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -3395028,
+                    "lt": -19909719,
+                    "rt": -18695787,
+                    "tp": -2307945
+                },
+                "X1": -19894719,
+                "X2": -18710787,
+                "Y1": -2322945,
+                "Y2": -3380028
+            },
+            "Line-131": {
+                "Id": 131,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -3648727,
+                    "lt": -20332552,
+                    "rt": -18695787,
+                    "tp": -3365028
+                },
+                "X1": -18710787,
+                "X2": -20317552,
+                "Y1": -3380028,
+                "Y2": -3633727
+            },
+            "Line-132": {
+                "Id": 132,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -3817861,
+                    "lt": -24603165,
+                    "rt": -22754984,
+                    "tp": -2688495
+                },
+                "X1": -24588165,
+                "X2": -22769984,
+                "Y1": -2703495,
+                "Y2": -3802861
+            },
+            "Line-133": {
+                "Id": 133,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -7115958,
+                    "lt": -22784984,
+                    "rt": -22501284,
+                    "tp": -3787861
+                },
+                "X1": -22769984,
+                "X2": -22516284,
+                "Y1": -3802861,
+                "Y2": -7100958
+            },
+            "Line-134": {
+                "Id": 134,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -6523992,
+                    "lt": -21347351,
+                    "rt": -18991770,
+                    "tp": -6409425
+                },
+                "X1": -21332351,
+                "X2": -19006770,
+                "Y1": -6424425,
+                "Y2": -6508992
+            },
+            "Line-135": {
+                "Id": 135,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -7665641,
+                    "lt": -19867436,
+                    "rt": -18991770,
+                    "tp": -6493992
+                },
+                "X1": -19006770,
+                "X2": -19852436,
+                "Y1": -6508992,
+                "Y2": -7650641
+            },
+            "Line-136": {
+                "Id": 136,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -7834774,
+                    "lt": -20966802,
+                    "rt": -19837436,
+                    "tp": -7635641
+                },
+                "X1": -19852436,
+                "X2": -20951802,
+                "Y1": -7650641,
+                "Y2": -7819774
+            },
+            "Line-137": {
+                "Id": 137,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -4917226,
+                    "lt": -11918176,
+                    "rt": -10577394,
+                    "tp": -4337544
+                },
+                "X1": -10592394,
+                "X2": -11903176,
+                "Y1": -4352544,
+                "Y2": -4902226
+            },
+            "Line-138": {
+                "Id": 138,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -4917226,
+                    "lt": -11918176,
+                    "rt": -11127077,
+                    "tp": -3111328
+                },
+                "X1": -11903176,
+                "X2": -11142077,
+                "Y1": -4902226,
+                "Y2": -3126328
+            },
+            "Line-65": {
+                "Id": 65,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-12": {
+                        "Id": 12
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 0,
+                    "Layer id": 12,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 4985000,
+                    "lt": -23015000,
+                    "rt": -17985000,
+                    "tp": 9015000
+                },
+                "X1": -23000000,
+                "X2": -18000000,
+                "Y1": 9000000,
+                "Y2": 5000000
+            },
+            "Line-66": {
+                "Id": 66,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 2985000,
+                    "lt": -25015000,
+                    "rt": -20985000,
+                    "tp": 7015000
+                },
+                "X1": -25000000,
+                "X2": -21000000,
+                "Y1": 7000000,
+                "Y2": 3000000
+            },
+            "Line-67": {
+                "Id": 67,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 2985000,
+                    "lt": -21015000,
+                    "rt": -19985000,
+                    "tp": 3015000
+                },
+                "X1": -21000000,
+                "X2": -20000000,
+                "Y1": 3000000,
+                "Y2": 3000000
+            },
+            "Line-68": {
+                "Id": 68,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 2985000,
+                    "lt": -20015000,
+                    "rt": -18985000,
+                    "tp": 3015000
+                },
+                "X1": -20000000,
+                "X2": -19000000,
+                "Y1": 3000000,
+                "Y2": 3000000
+            },
+            "Line-69": {
+                "Id": 69,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 2985000,
+                    "lt": -19015000,
+                    "rt": -17985000,
+                    "tp": 4015000
+                },
+                "X1": -19000000,
+                "X2": -18000000,
+                "Y1": 3000000,
+                "Y2": 4000000
+            },
+            "Line-70": {
+                "Id": 70,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 3985000,
+                    "lt": -18015000,
+                    "rt": -16985000,
+                    "tp": 5015000
+                },
+                "X1": -18000000,
+                "X2": -17000000,
+                "Y1": 4000000,
+                "Y2": 5000000
+            },
+            "Line-71": {
+                "Id": 71,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 4985000,
+                    "lt": -17015000,
+                    "rt": -13985000,
+                    "tp": 5015000
+                },
+                "X1": -17000000,
+                "X2": -14000000,
+                "Y1": 5000000,
+                "Y2": 5000000
+            },
+            "Line-72": {
+                "Id": 72,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 4985000,
+                    "lt": -14015000,
+                    "rt": -13985000,
+                    "tp": 8015000
+                },
+                "X1": -14000000,
+                "X2": -14000000,
+                "Y1": 5000000,
+                "Y2": 8000000
+            },
+            "Line-73": {
+                "Id": 73,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 7985000,
+                    "lt": -18015000,
+                    "rt": -13985000,
+                    "tp": 8015000
+                },
+                "X1": -14000000,
+                "X2": -18000000,
+                "Y1": 8000000,
+                "Y2": 8000000
+            },
+            "Line-74": {
+                "Id": 74,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 1985000,
+                    "lt": -26015000,
+                    "rt": -23985000,
+                    "tp": 4015000
+                },
+                "X1": -26000000,
+                "X2": -24000000,
+                "Y1": 4000000,
+                "Y2": 2000000
+            },
+            "Line-75": {
+                "Id": 75,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 985000,
+                    "lt": -24015000,
+                    "rt": -22985000,
+                    "tp": 2015000
+                },
+                "X1": -24000000,
+                "X2": -23000000,
+                "Y1": 2000000,
+                "Y2": 1000000
+            },
+            "Line-76": {
+                "Id": 76,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 985000,
+                    "lt": -23015000,
+                    "rt": -18985000,
+                    "tp": 1015000
+                },
+                "X1": -23000000,
+                "X2": -19000000,
+                "Y1": 1000000,
+                "Y2": 1000000
+            },
+            "Line-77": {
+                "Id": 77,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 985000,
+                    "lt": -19015000,
+                    "rt": -16985000,
+                    "tp": 3015000
+                },
+                "X1": -19000000,
+                "X2": -17000000,
+                "Y1": 1000000,
+                "Y2": 3000000
+            },
+            "Line-78": {
+                "Id": 78,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 2985000,
+                    "lt": -17015000,
+                    "rt": -12985000,
+                    "tp": 3015000
+                },
+                "X1": -17000000,
+                "X2": -13000000,
+                "Y1": 3000000,
+                "Y2": 3000000
+            },
+            "Line-79": {
+                "Id": 79,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 2985000,
+                    "lt": -13015000,
+                    "rt": -12985000,
+                    "tp": 12015000
+                },
+                "X1": -13000000,
+                "X2": -13000000,
+                "Y1": 3000000,
+                "Y2": 12000000
+            },
+            "Line-80": {
+                "Id": 80,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 11985000,
+                    "lt": -15015000,
+                    "rt": -12985000,
+                    "tp": 12015000
+                },
+                "X1": -13000000,
+                "X2": -15000000,
+                "Y1": 12000000,
+                "Y2": 12000000
+            },
+            "Line-81": {
+                "Id": 81,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 9985000,
+                    "lt": -15015000,
+                    "rt": -13985000,
+                    "tp": 12015000
+                },
+                "X1": -15000000,
+                "X2": -14000000,
+                "Y1": 12000000,
+                "Y2": 10000000
+            },
+            "Line-82": {
+                "Id": 82,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 5985000,
+                    "lt": -22015000,
+                    "rt": -19985000,
+                    "tp": 8015000
+                },
+                "X1": -22000000,
+                "X2": -20000000,
+                "Y1": 8000000,
+                "Y2": 6000000
+            },
+            "Line-83": {
+                "Id": 83,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 5985000,
+                    "lt": -20015000,
+                    "rt": -17985000,
+                    "tp": 6015000
+                },
+                "X1": -20000000,
+                "X2": -18000000,
+                "Y1": 6000000,
+                "Y2": 6000000
+            },
+            "Line-84": {
+                "Id": 84,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 4985000,
+                    "lt": -19015000,
+                    "rt": -17985000,
+                    "tp": 6015000
+                },
+                "X1": -18000000,
+                "X2": -19000000,
+                "Y1": 6000000,
+                "Y2": 5000000
+            },
+            "Line-85": {
+                "Id": 85,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 4985000,
+                    "lt": -21015000,
+                    "rt": -18985000,
+                    "tp": 5015000
+                },
+                "X1": -19000000,
+                "X2": -21000000,
+                "Y1": 5000000,
+                "Y2": 5000000
+            },
+            "Line-86": {
+                "Id": 86,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 7985000,
+                    "lt": -23015000,
+                    "rt": -19985000,
+                    "tp": 11015000
+                },
+                "X1": -23000000,
+                "X2": -20000000,
+                "Y1": 11000000,
+                "Y2": 8000000
+            },
+            "Line-87": {
+                "Id": 87,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 7985000,
+                    "lt": -20015000,
+                    "rt": -18985000,
+                    "tp": 9015000
+                },
+                "X1": -20000000,
+                "X2": -19000000,
+                "Y1": 8000000,
+                "Y2": 9000000
+            },
+            "Line-88": {
+                "Id": 88,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 8985000,
+                    "lt": -19015000,
+                    "rt": -15985000,
+                    "tp": 9015000
+                },
+                "X1": -19000000,
+                "X2": -16000000,
+                "Y1": 9000000,
+                "Y2": 9000000
+            },
+            "Line-89": {
+                "Id": 89,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 9985000,
+                    "lt": -21015000,
+                    "rt": -19985000,
+                    "tp": 11015000
+                },
+                "X1": -21000000,
+                "X2": -20000000,
+                "Y1": 11000000,
+                "Y2": 10000000
+            },
+            "Line-90": {
+                "Id": 90,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 9985000,
+                    "lt": -20015000,
+                    "rt": -18985000,
+                    "tp": 11015000
+                },
+                "X1": -20000000,
+                "X2": -19000000,
+                "Y1": 10000000,
+                "Y2": 11000000
+            },
+            "Line-91": {
+                "Id": 91,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 10985000,
+                    "lt": -19015000,
+                    "rt": -15985000,
+                    "tp": 11015000
+                },
+                "X1": -19000000,
+                "X2": -16000000,
+                "Y1": 11000000,
+                "Y2": 11000000
+            },
+            "Line-92": {
+                "Id": 92,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": 10985000,
+                    "lt": -22015000,
+                    "rt": -20985000,
+                    "tp": 12015000
+                },
+                "X1": -21000000,
+                "X2": -22000000,
+                "Y1": 11000000,
+                "Y2": 12000000
+            },
+            "Line-93": {
+                "Id": 93,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -2015000,
+                    "lt": -24015000,
+                    "rt": -21985000,
+                    "tp": 15000
+                },
+                "X1": -24000000,
+                "X2": -22000000,
+                "Y1": 0,
+                "Y2": -2000000
+            },
+            "Line-94": {
+                "Id": 94,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -2015000,
+                    "lt": -22015000,
+                    "rt": -19985000,
+                    "tp": -985000
+                },
+                "X1": -22000000,
+                "X2": -20000000,
+                "Y1": -2000000,
+                "Y2": -1000000
+            },
+            "Line-95": {
+                "Id": 95,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -1015000,
+                    "lt": -20015000,
+                    "rt": -17985000,
+                    "tp": -985000
+                },
+                "X1": -20000000,
+                "X2": -18000000,
+                "Y1": -1000000,
+                "Y2": -1000000
+            },
+            "Line-96": {
+                "Id": 96,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -2015000,
+                    "lt": -18015000,
+                    "rt": -16985000,
+                    "tp": -985000
+                },
+                "X1": -18000000,
+                "X2": -17000000,
+                "Y1": -1000000,
+                "Y2": -2000000
+            },
+            "Line-97": {
+                "Id": 97,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -6015000,
+                    "lt": -17015000,
+                    "rt": -12985000,
+                    "tp": -1985000
+                },
+                "X1": -17000000,
+                "X2": -13000000,
+                "Y1": -2000000,
+                "Y2": -6000000
+            },
+            "Line-98": {
+                "Id": 98,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -6015000,
+                    "lt": -13015000,
+                    "rt": -8985000,
+                    "tp": -5985000
+                },
+                "X1": -13000000,
+                "X2": -9000000,
+                "Y1": -6000000,
+                "Y2": -6000000
+            },
+            "Line-99": {
+                "Id": 99,
+                "Line cup": 0,
+                "Linewidth": 30000,
+                "Listeners list": {
+                    "Listener-23": {
+                        "Id": 23
+                    },
+                    "Listener-24": {
+                        "Id": 24
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 23,
+                    "Layer id": 24,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -6015000,
+                    "lt": -10015000,
+                    "rt": -8985000,
+                    "tp": -2985000
+                },
+                "X1": -9000000,
+                "X2": -10000000,
+                "Y1": -6000000,
+                "Y2": -3000000
+            },
+            "MLayer-1": {
+                "Dfp container map": {},
+                "Flags": 0,
+                "Id": 1,
+                "Linecontainer map": {},
+                "Name": "NetLink",
+                "Parent id": 2,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "MLayer-10": {
+                "Dfp container map": {},
+                "Flags": 1,
+                "Id": 10,
+                "Linecontainer map": {},
+                "Name": "Layer_1",
+                "Parent id": 9,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {
+                    "Shape-30": {
+                        "Id": 30
+                    }
+                },
+                "Text map": {},
+                "bm": -11000000,
+                "lt": -30000000,
+                "rt": -5000000,
+                "tp": 15000000
+            },
+            "MLayer-11": {
+                "Dfp container map": {},
+                "Flags": 2,
+                "Id": 11,
+                "Linecontainer map": {},
+                "Name": "Layer_2",
+                "Parent id": 9,
+                "Polarity": false,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "MLayer-12": {
+                "Dfp container map": {},
+                "Flags": 0,
+                "Id": 12,
+                "Linecontainer map": {},
+                "Name": "Layer_3",
+                "Parent id": 9,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {
+                    "Shape-65": {
+                        "Id": 65
+                    }
+                },
+                "Text map": {},
+                "bm": 4985000,
+                "lt": -23015000,
+                "rt": -17985000,
+                "tp": 9015000
+            },
+            "MLayer-14": {
+                "Dfp container map": {},
+                "Flags": 1,
+                "Id": 14,
+                "Linecontainer map": {},
+                "Name": "Layer_1",
+                "Parent id": 13,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "MLayer-15": {
+                "Dfp container map": {},
+                "Flags": 2,
+                "Id": 15,
+                "Linecontainer map": {},
+                "Name": "Layer_2",
+                "Parent id": 13,
+                "Polarity": false,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "MLayer-16": {
+                "Dfp container map": {},
+                "Flags": 0,
+                "Id": 16,
+                "Linecontainer map": {},
+                "Name": "Layer_3",
+                "Parent id": 13,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "MLayer-18": {
+                "Dfp container map": {},
+                "Flags": 1,
+                "Id": 18,
+                "Linecontainer map": {},
+                "Name": "Layer_1",
+                "Parent id": 17,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "MLayer-19": {
+                "Dfp container map": {},
+                "Flags": 2,
+                "Id": 19,
+                "Linecontainer map": {},
+                "Name": "Layer_2",
+                "Parent id": 17,
+                "Polarity": false,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "MLayer-20": {
+                "Dfp container map": {},
+                "Flags": 0,
+                "Id": 20,
+                "Linecontainer map": {},
+                "Name": "Layer_3",
+                "Parent id": 17,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "MLayer-22": {
+                "Dfp container map": {},
+                "Flags": 1,
+                "Id": 22,
+                "Linecontainer map": {},
+                "Name": "Layer_1",
+                "Parent id": 21,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {
+                    "Shape-29": {
+                        "Id": 29
+                    }
+                },
+                "Text map": {},
+                "bm": -11000000,
+                "lt": -30000000,
+                "rt": -5000000,
+                "tp": 15000000
+            },
+            "MLayer-23": {
+                "Dfp container map": {},
+                "Flags": 2,
+                "Id": 23,
+                "Linecontainer map": {},
+                "Name": "Layer_2",
+                "Parent id": 21,
+                "Polarity": false,
+                "Prop map": {},
+                "Shape maps": {
+                    "Shape-100": {
+                        "Id": 100
+                    },
+                    "Shape-101": {
+                        "Id": 101
+                    },
+                    "Shape-102": {
+                        "Id": 102
+                    },
+                    "Shape-103": {
+                        "Id": 103
+                    },
+                    "Shape-104": {
+                        "Id": 104
+                    },
+                    "Shape-105": {
+                        "Id": 105
+                    },
+                    "Shape-106": {
+                        "Id": 106
+                    },
+                    "Shape-107": {
+                        "Id": 107
+                    },
+                    "Shape-108": {
+                        "Id": 108
+                    },
+                    "Shape-109": {
+                        "Id": 109
+                    },
+                    "Shape-110": {
+                        "Id": 110
+                    },
+                    "Shape-111": {
+                        "Id": 111
+                    },
+                    "Shape-112": {
+                        "Id": 112
+                    },
+                    "Shape-113": {
+                        "Id": 113
+                    },
+                    "Shape-114": {
+                        "Id": 114
+                    },
+                    "Shape-115": {
+                        "Id": 115
+                    },
+                    "Shape-116": {
+                        "Id": 116
+                    },
+                    "Shape-117": {
+                        "Id": 117
+                    },
+                    "Shape-118": {
+                        "Id": 118
+                    },
+                    "Shape-119": {
+                        "Id": 119
+                    },
+                    "Shape-120": {
+                        "Id": 120
+                    },
+                    "Shape-121": {
+                        "Id": 121
+                    },
+                    "Shape-122": {
+                        "Id": 122
+                    },
+                    "Shape-123": {
+                        "Id": 123
+                    },
+                    "Shape-124": {
+                        "Id": 124
+                    },
+                    "Shape-125": {
+                        "Id": 125
+                    },
+                    "Shape-126": {
+                        "Id": 126
+                    },
+                    "Shape-127": {
+                        "Id": 127
+                    },
+                    "Shape-128": {
+                        "Id": 128
+                    },
+                    "Shape-129": {
+                        "Id": 129
+                    },
+                    "Shape-130": {
+                        "Id": 130
+                    },
+                    "Shape-131": {
+                        "Id": 131
+                    },
+                    "Shape-132": {
+                        "Id": 132
+                    },
+                    "Shape-133": {
+                        "Id": 133
+                    },
+                    "Shape-134": {
+                        "Id": 134
+                    },
+                    "Shape-135": {
+                        "Id": 135
+                    },
+                    "Shape-136": {
+                        "Id": 136
+                    },
+                    "Shape-137": {
+                        "Id": 137
+                    },
+                    "Shape-138": {
+                        "Id": 138
+                    },
+                    "Shape-32": {
+                        "Id": 32
+                    },
+                    "Shape-34": {
+                        "Id": 34
+                    },
+                    "Shape-36": {
+                        "Id": 36
+                    },
+                    "Shape-38": {
+                        "Id": 38
+                    },
+                    "Shape-40": {
+                        "Id": 40
+                    },
+                    "Shape-42": {
+                        "Id": 42
+                    },
+                    "Shape-44": {
+                        "Id": 44
+                    },
+                    "Shape-46": {
+                        "Id": 46
+                    },
+                    "Shape-48": {
+                        "Id": 48
+                    },
+                    "Shape-50": {
+                        "Id": 50
+                    },
+                    "Shape-52": {
+                        "Id": 52
+                    },
+                    "Shape-54": {
+                        "Id": 54
+                    },
+                    "Shape-56": {
+                        "Id": 56
+                    },
+                    "Shape-58": {
+                        "Id": 58
+                    },
+                    "Shape-60": {
+                        "Id": 60
+                    },
+                    "Shape-62": {
+                        "Id": 62
+                    },
+                    "Shape-64": {
+                        "Id": 64
+                    },
+                    "Shape-66": {
+                        "Id": 66
+                    },
+                    "Shape-67": {
+                        "Id": 67
+                    },
+                    "Shape-68": {
+                        "Id": 68
+                    },
+                    "Shape-69": {
+                        "Id": 69
+                    },
+                    "Shape-70": {
+                        "Id": 70
+                    },
+                    "Shape-71": {
+                        "Id": 71
+                    },
+                    "Shape-72": {
+                        "Id": 72
+                    },
+                    "Shape-73": {
+                        "Id": 73
+                    },
+                    "Shape-74": {
+                        "Id": 74
+                    },
+                    "Shape-75": {
+                        "Id": 75
+                    },
+                    "Shape-76": {
+                        "Id": 76
+                    },
+                    "Shape-77": {
+                        "Id": 77
+                    },
+                    "Shape-78": {
+                        "Id": 78
+                    },
+                    "Shape-79": {
+                        "Id": 79
+                    },
+                    "Shape-80": {
+                        "Id": 80
+                    },
+                    "Shape-81": {
+                        "Id": 81
+                    },
+                    "Shape-82": {
+                        "Id": 82
+                    },
+                    "Shape-83": {
+                        "Id": 83
+                    },
+                    "Shape-84": {
+                        "Id": 84
+                    },
+                    "Shape-85": {
+                        "Id": 85
+                    },
+                    "Shape-86": {
+                        "Id": 86
+                    },
+                    "Shape-87": {
+                        "Id": 87
+                    },
+                    "Shape-88": {
+                        "Id": 88
+                    },
+                    "Shape-89": {
+                        "Id": 89
+                    },
+                    "Shape-90": {
+                        "Id": 90
+                    },
+                    "Shape-91": {
+                        "Id": 91
+                    },
+                    "Shape-92": {
+                        "Id": 92
+                    },
+                    "Shape-93": {
+                        "Id": 93
+                    },
+                    "Shape-94": {
+                        "Id": 94
+                    },
+                    "Shape-95": {
+                        "Id": 95
+                    },
+                    "Shape-96": {
+                        "Id": 96
+                    },
+                    "Shape-97": {
+                        "Id": 97
+                    },
+                    "Shape-98": {
+                        "Id": 98
+                    },
+                    "Shape-99": {
+                        "Id": 99
+                    }
+                },
+                "Text map": {},
+                "bm": -7834774,
+                "lt": -27015000,
+                "rt": -5985000,
+                "tp": 14570585
+            },
+            "MLayer-24": {
+                "Dfp container map": {},
+                "Flags": 0,
+                "Id": 24,
+                "Linecontainer map": {},
+                "Name": "Layer_3",
+                "Parent id": 21,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {
+                    "Shape-100": {
+                        "Id": 100
+                    },
+                    "Shape-101": {
+                        "Id": 101
+                    },
+                    "Shape-102": {
+                        "Id": 102
+                    },
+                    "Shape-103": {
+                        "Id": 103
+                    },
+                    "Shape-104": {
+                        "Id": 104
+                    },
+                    "Shape-105": {
+                        "Id": 105
+                    },
+                    "Shape-106": {
+                        "Id": 106
+                    },
+                    "Shape-107": {
+                        "Id": 107
+                    },
+                    "Shape-108": {
+                        "Id": 108
+                    },
+                    "Shape-109": {
+                        "Id": 109
+                    },
+                    "Shape-110": {
+                        "Id": 110
+                    },
+                    "Shape-111": {
+                        "Id": 111
+                    },
+                    "Shape-112": {
+                        "Id": 112
+                    },
+                    "Shape-113": {
+                        "Id": 113
+                    },
+                    "Shape-114": {
+                        "Id": 114
+                    },
+                    "Shape-115": {
+                        "Id": 115
+                    },
+                    "Shape-116": {
+                        "Id": 116
+                    },
+                    "Shape-117": {
+                        "Id": 117
+                    },
+                    "Shape-118": {
+                        "Id": 118
+                    },
+                    "Shape-119": {
+                        "Id": 119
+                    },
+                    "Shape-120": {
+                        "Id": 120
+                    },
+                    "Shape-121": {
+                        "Id": 121
+                    },
+                    "Shape-122": {
+                        "Id": 122
+                    },
+                    "Shape-123": {
+                        "Id": 123
+                    },
+                    "Shape-124": {
+                        "Id": 124
+                    },
+                    "Shape-125": {
+                        "Id": 125
+                    },
+                    "Shape-126": {
+                        "Id": 126
+                    },
+                    "Shape-127": {
+                        "Id": 127
+                    },
+                    "Shape-128": {
+                        "Id": 128
+                    },
+                    "Shape-129": {
+                        "Id": 129
+                    },
+                    "Shape-130": {
+                        "Id": 130
+                    },
+                    "Shape-131": {
+                        "Id": 131
+                    },
+                    "Shape-132": {
+                        "Id": 132
+                    },
+                    "Shape-133": {
+                        "Id": 133
+                    },
+                    "Shape-134": {
+                        "Id": 134
+                    },
+                    "Shape-135": {
+                        "Id": 135
+                    },
+                    "Shape-136": {
+                        "Id": 136
+                    },
+                    "Shape-137": {
+                        "Id": 137
+                    },
+                    "Shape-138": {
+                        "Id": 138
+                    },
+                    "Shape-32": {
+                        "Id": 32
+                    },
+                    "Shape-34": {
+                        "Id": 34
+                    },
+                    "Shape-36": {
+                        "Id": 36
+                    },
+                    "Shape-38": {
+                        "Id": 38
+                    },
+                    "Shape-40": {
+                        "Id": 40
+                    },
+                    "Shape-42": {
+                        "Id": 42
+                    },
+                    "Shape-44": {
+                        "Id": 44
+                    },
+                    "Shape-46": {
+                        "Id": 46
+                    },
+                    "Shape-48": {
+                        "Id": 48
+                    },
+                    "Shape-50": {
+                        "Id": 50
+                    },
+                    "Shape-52": {
+                        "Id": 52
+                    },
+                    "Shape-54": {
+                        "Id": 54
+                    },
+                    "Shape-56": {
+                        "Id": 56
+                    },
+                    "Shape-58": {
+                        "Id": 58
+                    },
+                    "Shape-60": {
+                        "Id": 60
+                    },
+                    "Shape-62": {
+                        "Id": 62
+                    },
+                    "Shape-64": {
+                        "Id": 64
+                    },
+                    "Shape-66": {
+                        "Id": 66
+                    },
+                    "Shape-67": {
+                        "Id": 67
+                    },
+                    "Shape-68": {
+                        "Id": 68
+                    },
+                    "Shape-69": {
+                        "Id": 69
+                    },
+                    "Shape-70": {
+                        "Id": 70
+                    },
+                    "Shape-71": {
+                        "Id": 71
+                    },
+                    "Shape-72": {
+                        "Id": 72
+                    },
+                    "Shape-73": {
+                        "Id": 73
+                    },
+                    "Shape-74": {
+                        "Id": 74
+                    },
+                    "Shape-75": {
+                        "Id": 75
+                    },
+                    "Shape-76": {
+                        "Id": 76
+                    },
+                    "Shape-77": {
+                        "Id": 77
+                    },
+                    "Shape-78": {
+                        "Id": 78
+                    },
+                    "Shape-79": {
+                        "Id": 79
+                    },
+                    "Shape-80": {
+                        "Id": 80
+                    },
+                    "Shape-81": {
+                        "Id": 81
+                    },
+                    "Shape-82": {
+                        "Id": 82
+                    },
+                    "Shape-83": {
+                        "Id": 83
+                    },
+                    "Shape-84": {
+                        "Id": 84
+                    },
+                    "Shape-85": {
+                        "Id": 85
+                    },
+                    "Shape-86": {
+                        "Id": 86
+                    },
+                    "Shape-87": {
+                        "Id": 87
+                    },
+                    "Shape-88": {
+                        "Id": 88
+                    },
+                    "Shape-89": {
+                        "Id": 89
+                    },
+                    "Shape-90": {
+                        "Id": 90
+                    },
+                    "Shape-91": {
+                        "Id": 91
+                    },
+                    "Shape-92": {
+                        "Id": 92
+                    },
+                    "Shape-93": {
+                        "Id": 93
+                    },
+                    "Shape-94": {
+                        "Id": 94
+                    },
+                    "Shape-95": {
+                        "Id": 95
+                    },
+                    "Shape-96": {
+                        "Id": 96
+                    },
+                    "Shape-97": {
+                        "Id": 97
+                    },
+                    "Shape-98": {
+                        "Id": 98
+                    },
+                    "Shape-99": {
+                        "Id": 99
+                    }
+                },
+                "Text map": {},
+                "bm": -7834774,
+                "lt": -27015000,
+                "rt": -5985000,
+                "tp": 14570585
+            },
+            "MLayer-6": {
+                "Dfp container map": {},
+                "Flags": 1,
+                "Id": 6,
+                "Linecontainer map": {},
+                "Name": "Layer_1",
+                "Parent id": 5,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "MLayer-7": {
+                "Dfp container map": {},
+                "Flags": 2,
+                "Id": 7,
+                "Linecontainer map": {},
+                "Name": "Layer_2",
+                "Parent id": 5,
+                "Polarity": false,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "MLayer-8": {
+                "Dfp container map": {},
+                "Flags": 0,
+                "Id": 8,
+                "Linecontainer map": {},
+                "Name": "Layer_3",
+                "Parent id": 5,
+                "Polarity": true,
+                "Prop map": {},
+                "Shape maps": {},
+                "Text map": {},
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "Net group-3": {
+                "Id": 3,
+                "Name": "Unassigned",
+                "Prop map": {}
+            },
+            "Polygon-29": {
+                "Fill": true,
+                "Id": 29,
+                "Line cup": 0,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-22": {
+                        "Id": 22
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 0,
+                    "Layer id": 22,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -11000000,
+                    "lt": -30000000,
+                    "rt": -5000000,
+                    "tp": 15000000
+                },
+                "Vertex count": 4,
+                "Vertex list": {
+                    "Vertex-0": {
+                        "X": -30000000,
+                        "Y": 15000000
+                    },
+                    "Vertex-1": {
+                        "X": -6000000,
+                        "Y": 15000000
+                    },
+                    "Vertex-2": {
+                        "X": -5000000,
+                        "Y": -11000000
+                    },
+                    "Vertex-3": {
+                        "X": -29000000,
+                        "Y": -11000000
+                    }
+                }
+            },
+            "Polygon-30": {
+                "Fill": true,
+                "Id": 30,
+                "Line cup": 0,
+                "Linewidth": 0,
+                "Listeners list": {
+                    "Listener-10": {
+                        "Id": 10
+                    }
+                },
+                "Prop map": {},
+                "Shape parameters": {
+                    "Connected shapes": {},
+                    "CutLayer id": 0,
+                    "Layer id": 10,
+                    "Net id": 0,
+                    "Net list": {},
+                    "Owner id": 0,
+                    "Polarity": true,
+                    "Prim net obj": false,
+                    "bm": -11000000,
+                    "lt": -30000000,
+                    "rt": -5000000,
+                    "tp": 15000000
+                },
+                "Vertex count": 4,
+                "Vertex list": {
+                    "Vertex-0": {
+                        "X": -30000000,
+                        "Y": 15000000
+                    },
+                    "Vertex-1": {
+                        "X": -6000000,
+                        "Y": 15000000
+                    },
+                    "Vertex-2": {
+                        "X": -5000000,
+                        "Y": -11000000
+                    },
+                    "Vertex-3": {
+                        "X": -29000000,
+                        "Y": -11000000
+                    }
+                }
+            },
+            "Substrate": {
+                "Aperture map": {},
+                "Bottom components map": {},
+                "Boundary shape list": {},
+                "Boundary size": 0,
+                "Id": 4,
+                "Layer map": {
+                    "DIEL-1": {
+                        "Id": 17,
+                        "Name": "DIEL-1"
+                    },
+                    "METAL-1": {
+                        "Id": 9,
+                        "Name": "METAL-1"
+                    },
+                    "METAL-2": {
+                        "Id": 21,
+                        "Name": "METAL-2"
+                    },
+                    "SM-BTM": {
+                        "Id": 5,
+                        "Name": "SM-BTM"
+                    },
+                    "SM-TOP": {
+                        "Id": 13,
+                        "Name": "SM-TOP"
+                    }
+                },
+                "Layer order": {
+                    "Layer-0": {
+                        "Id": 5,
+                        "Num": 0
+                    },
+                    "Layer-1": {
+                        "Id": 9,
+                        "Num": 1
+                    },
+                    "Layer-2": {
+                        "Id": 17,
+                        "Num": 2
+                    },
+                    "Layer-3": {
+                        "Id": 21,
+                        "Num": 3
+                    },
+                    "Layer-4": {
+                        "Id": 13,
+                        "Num": 4
+                    }
+                },
+                "Layers count": 5,
+                "Min line width": 1,
+                "Net Link Layer id": 2,
+                "Net groups map": {
+                    "Unassigned": {
+                        "Id": 3,
+                        "Name": "Unassigned"
+                    }
+                },
+                "Net map": {},
+                "Nominal line width": 1,
+                "Package id": 0,
+                "Prop map": {},
+                "Top components map": {},
+                "Venthole templates map": {},
+                "Ventholes map": {},
+                "Via map": {
+                    "Via-via-1-11000000--4000000": {
+                        "Id": 43
+                    },
+                    "Via-via-1-11000000-1000000": {
+                        "Id": 41
+                    },
+                    "Via-via-1-14000000-10000000": {
+                        "Id": 55
+                    },
+                    "Via-via-1-17000000-14000000": {
+                        "Id": 57
+                    },
+                    "Via-via-1-18000000-8000000": {
+                        "Id": 37
+                    },
+                    "Via-via-1-20000000--3000000": {
+                        "Id": 47
+                    },
+                    "Via-via-1-20000000--7000000": {
+                        "Id": 49
+                    },
+                    "Via-via-1-20000000-12000000": {
+                        "Id": 33
+                    },
+                    "Via-via-1-22000000-6000000": {
+                        "Id": 59
+                    },
+                    "Via-via-1-23000000--3000000": {
+                        "Id": 39
+                    },
+                    "Via-via-1-23000000--7000000": {
+                        "Id": 45
+                    },
+                    "Via-via-1-24000000-12000000": {
+                        "Id": 31
+                    },
+                    "Via-via-1-24000000-4000000": {
+                        "Id": 61
+                    },
+                    "Via-via-1-24000000-8000000": {
+                        "Id": 35
+                    },
+                    "Via-via-1-26000000-6000000": {
+                        "Id": 63
+                    },
+                    "Via-via-1-7000000--4000000": {
+                        "Id": 53
+                    },
+                    "Via-via-1-7000000-1000000": {
+                        "Id": 51
+                    }
+                },
+                "Via templates map": {
+                    "via-1": {
+                        "Id": 27,
+                        "Name": "via-1"
+                    },
+                    "via-2": {
+                        "Id": 25,
+                        "Name": "via-2"
+                    }
+                },
+                "X grid": 1000,
+                "X grid offset": 0,
+                "Y grid": 1000,
+                "Y grid offset": 0,
+                "bm": 0,
+                "lt": 0,
+                "rt": 0,
+                "tp": 0
+            },
+            "Via template-25": {
+                "Flags": 0,
+                "Id": 25,
+                "Layer 1": 1,
+                "Layer 2": 3,
+                "Name": "via-2",
+                "Prop map": {},
+                "Shape list": {
+                    "Shape-METAL-2": {
+                        "Id": 26,
+                        "Layer name": "METAL-2"
+                    }
+                }
+            },
+            "Via template-27": {
+                "Flags": 0,
+                "Id": 27,
+                "Layer 1": 1,
+                "Layer 2": 3,
+                "Name": "via-1",
+                "Prop map": {},
+                "Shape list": {
+                    "Shape-METAL-2": {
+                        "Id": 28,
+                        "Layer name": "METAL-2"
+                    }
+                }
+            },
+            "Via-31": {
+                "Id": 31,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-32": {
+                        "Id first": 32,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -24000000,
+                "Y": 12000000
+            },
+            "Via-33": {
+                "Id": 33,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-34": {
+                        "Id first": 34,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -20000000,
+                "Y": 12000000
+            },
+            "Via-35": {
+                "Id": 35,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-36": {
+                        "Id first": 36,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -24000000,
+                "Y": 8000000
+            },
+            "Via-37": {
+                "Id": 37,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-38": {
+                        "Id first": 38,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -18000000,
+                "Y": 8000000
+            },
+            "Via-39": {
+                "Id": 39,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-40": {
+                        "Id first": 40,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -23000000,
+                "Y": -3000000
+            },
+            "Via-41": {
+                "Id": 41,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-42": {
+                        "Id first": 42,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -11000000,
+                "Y": 1000000
+            },
+            "Via-43": {
+                "Id": 43,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-44": {
+                        "Id first": 44,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -11000000,
+                "Y": -4000000
+            },
+            "Via-45": {
+                "Id": 45,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-46": {
+                        "Id first": 46,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -23000000,
+                "Y": -7000000
+            },
+            "Via-47": {
+                "Id": 47,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-48": {
+                        "Id first": 48,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -20000000,
+                "Y": -3000000
+            },
+            "Via-49": {
+                "Id": 49,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-50": {
+                        "Id first": 50,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -20000000,
+                "Y": -7000000
+            },
+            "Via-51": {
+                "Id": 51,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-52": {
+                        "Id first": 52,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -7000000,
+                "Y": 1000000
+            },
+            "Via-53": {
+                "Id": 53,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-54": {
+                        "Id first": 54,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -7000000,
+                "Y": -4000000
+            },
+            "Via-55": {
+                "Id": 55,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-56": {
+                        "Id first": 56,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -14000000,
+                "Y": 10000000
+            },
+            "Via-57": {
+                "Id": 57,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-58": {
+                        "Id first": 58,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -17000000,
+                "Y": 14000000
+            },
+            "Via-59": {
+                "Id": 59,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-60": {
+                        "Id first": 60,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -22000000,
+                "Y": 6000000
+            },
+            "Via-61": {
+                "Id": 61,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-62": {
+                        "Id first": 62,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -24000000,
+                "Y": 4000000
+            },
+            "Via-63": {
+                "Id": 63,
+                "Prop map": {},
+                "Shape map": {
+                    "Shape-Layer_3-none-64": {
+                        "Id first": 64,
+                        "Id second": 28
+                    }
+                },
+                "Template id": 27,
+                "X": -26000000,
+                "Y": 6000000
+            }
+        },
+        "Substrate id": 4
+    }
+}

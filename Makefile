@@ -1,16 +1,26 @@
-all: app
+CXX := g++
+CXXFLAGS := -std=c++11 -Wall
 
-app: loader.o geometry_objects.o app.o
-	g++ loader.o geometry_objects.o app.o -o app
+SRCDIR := src
+OBJDIR := obj
+BINDIR := bin
 
-app.o: main.cpp
-	g++ -c main.cpp -o app.o
+SRCS := $(wildcard $(SRCDIR)/*.cpp)
+OBJS := $(patsubst $(SRCDIR)/%.cpp,$(OBJDIR)/%.o,$(SRCS))
 
-loader.o: loader.cpp
-	g++ -c loader.cpp -o loader.o
+TARGET := app
 
-geometry_objects.o: geometry_objects.cpp
-	g++ -c geometry_objects.cpp -o geometry_objects.o
+.PHONY: all clean
+
+all: $(BINDIR)/$(TARGET)
+
+$(BINDIR)/$(TARGET): $(OBJS)
+	@mkdir -p $(BINDIR)
+	$(CXX) $^ -o $@
+
+$(OBJDIR)/%.o: $(SRCDIR)/%.cpp
+	@mkdir -p $(OBJDIR)
+	$(CXX) $(CXXFLAGS) -c $< -o $@
 
 clean:
-	rm *.o app
+	rm -rf $(OBJDIR)/*.o $(BINDIR)/$(TARGET)

@@ -1,5 +1,2 @@
-app
-app.o
-geometry_objects.o
-loader.o
-.vscode/settings.json
+bin/
+obj/

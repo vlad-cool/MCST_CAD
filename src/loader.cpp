@@ -11,7 +11,7 @@ void objects_from_json(std::string path, std::vector<Circle> &circles, std::vect
 
         for (auto iter = data["Base"]["Objects map"].begin(); iter != data["Base"]["Objects map"].end(); iter++)
         {
-            if (iter.key().size() >= 6 && iter.key().compare(0, 4, "Circle") == 0)
+            if (iter.key().size() >= 6 && iter.key().compare(0, 6, "Circle") == 0)
             {
                 circles.push_back(Circle(std::stod(iter.value()["X"].dump()), std::stod(iter.value()["Y"].dump()), std::stod(iter.value()["Diameter"].dump()), std::stoi(iter.value()["Id"].dump())));
                 continue;

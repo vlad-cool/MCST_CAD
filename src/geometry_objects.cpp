@@ -21,10 +21,30 @@ double Circle::get_min_distance(double x, double y) {
     return sqrt(delta_x * delta_x + delta_y * delta_y) - d / 2;
 }
 
+double Circle::get_min_distance(Circle & circle) {
+    double delta_x = cx - circle.cx;
+    double delta_y = cy - circle.cy;
+    return sqrt(delta_x * delta_x + delta_y * delta_y) - d / 2 - circle.d / 2;
+}
+
+double Circle::get_min_distance(Line & line) {
+    return line.get_min_distance(cx, cy) - d / 2;
+}
+
 double Circle::get_max_distance(double x, double y) {
     double delta_x = cx - x;
     double delta_y = cy - y;
     return sqrt(delta_x * delta_x + delta_y * delta_y) + d / 2;
+}
+
+double Circle::get_max_distance(Circle & circle) {
+    double delta_x = cx - circle.cx;
+    double delta_y = cy - circle.cy;
+    return sqrt(delta_x * delta_x + delta_y * delta_y) + d / 2 + circle.d / 2;
+}
+
+double Circle::get_max_distance(Line & line) {
+    return line.get_max_distance(cx, cy) + d / 2;
 }
 
 std::ostream& operator<<(std::ostream& os, const Circle& circle) {
@@ -72,10 +92,40 @@ double Line::get_min_distance(double x, double y) {
     }
 }
 
+double Line::get_min_distance(Circle & circle)
+{
+    return circle.get_min_distance(*this);
+}
+
+double Line::get_min_distance(Line & line)
+{
+    double candidate_1 = get_min_distance(line.x1, line.y1);
+    double candidate_2 = get_min_distance(line.x2, line.y2);
+    double candidate_3 = line.get_min_distance(x1, y1);
+    double candidate_4 = line.get_min_distance(x2, y2);
+
+    return std::min(std::min(candidate_1, candidate_2), std::min(candidate_3, candidate_4)) - width / 2;
+}
+
 double Line::get_max_distance(double x, double y) {
     double end_1_distance = sqrt((x - x1) * (x - x1) + (y - y1) * (y - y1));
     double end_2_distance = sqrt((x - x2) * (x - x2) + (y - y2) * (y - y2));
     return std::max(end_1_distance, end_2_distance) + width / 2;
+}
+
+double Line::get_max_distance(Circle & circle)
+{
+    return circle.get_max_distance(*this);
+}
+
+double Line::get_max_distance(Line & line)
+{
+    double candidate_1 = get_max_distance(line.x1, line.y1);
+    double candidate_2 = get_max_distance(line.x2, line.y2);
+    double candidate_3 = line.get_max_distance(x1, y1);
+    double candidate_4 = line.get_max_distance(x2, y2);
+
+    return std::min(std::min(candidate_1, candidate_2), std::min(candidate_3, candidate_4)) + width / 2;
 }
 
 std::ostream& operator<<(std::ostream& os, const Line& line) {

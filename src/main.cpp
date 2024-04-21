@@ -18,8 +18,6 @@ int main(int argc, char *argv[]) {
     std::vector<Line> lines;
     objects_from_json(path, circles, lines);
 
-    std::cout << circles.size() << " " << lines.size() << std::endl;
-
     for (auto iter_c1 = circles.begin(); iter_c1 != circles.end(); iter_c1++)
     {
         for (auto iter_c2 = iter_c1 + 1; iter_c2 != circles.end(); iter_c2++)
